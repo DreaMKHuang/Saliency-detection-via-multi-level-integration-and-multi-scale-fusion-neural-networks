@@ -24,6 +24,6 @@ author = "Mengke Huang and Zhi Liu and Linwei Ye and Xiaofei Zhou and Yang Wang"
 
 ### Others
 
-* [Trained model]()
+* [Trained model](https://pan.baidu.com/s/19heNURDnhi2LGel2jfg4hA&shfl=sharepset)
 
-* [Results]()
+* [Results](https://pan.baidu.com/s/1moFSU8RcLRPhLJcA1W3zzg&shfl=sharepset)
